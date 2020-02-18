@@ -1,4 +1,6 @@
-# Variable Assignment
+greeting="Hello World".
+
+learn
 
 ## Objectives
 

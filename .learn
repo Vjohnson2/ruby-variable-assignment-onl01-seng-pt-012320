@@ -1,3 +1,6 @@
+
+ rgreeting="Hello World".
+
 tags:
   - variable assignment
   - variables
@@ -5,3 +8,4 @@ languages:
   - ruby
 resources: 2
 
+greetin
